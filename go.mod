@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/NYTimes/gziphandler v1.1.1
-	github.com/creack/pty v1.1.11
+	github.com/creack/pty v1.1.18
 	github.com/fatih/structs v1.1.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
